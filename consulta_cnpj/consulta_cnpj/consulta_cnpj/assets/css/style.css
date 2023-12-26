@@ -1,0 +1,58 @@
+body{
+    background-color: #c6cca5;
+
+}
+
+#main-geral{
+    height: 100%;
+    width: 100% ;
+    margin-top: 10%;
+}
+
+.form-box {
+    background-color: transparent;
+    border: 3px solid #615145;
+    border-radius: 1rem;
+    box-shadow: 0 8px 16px #6151459c;
+    max-width: 100vh;
+    margin: 0px auto;
+}
+
+.row{
+    padding: 1rem;
+}
+
+.form-control{
+    border: 2px solid #615145;
+    background-color: #61514536;
+    color: #54787d;
+}
+
+
+
+.titulo-h2{
+    display: flex;
+    justify-content: center;
+    color: #615145;
+
+
+}
+
+
+.col-md-12{
+    color: #54787d;
+}
+.col-md-6{
+    color: #54787d;
+}
+
+
+
+
+/* {paleta de cor
+    #c6cca5
+    #8ab8a8
+    #6b9997
+    #54787d
+    #615145 border
+} */
